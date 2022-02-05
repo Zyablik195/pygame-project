@@ -1,0 +1,6 @@
+ScreenWidth=1600
+ScreenHeight=900
+MenuMusicVolume=0.2
+Sound=False
+Music=True
+FPS=True
